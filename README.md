@@ -1,2 +1,2 @@
 # Project-Euler
-My Implemeantation of Project Euler Problems in Python
+My implementation of Project Euler Problems in Python
